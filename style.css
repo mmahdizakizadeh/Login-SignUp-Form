@@ -162,8 +162,7 @@ form {
 .toggle-panel {
   position: absolute;
   width: 50%;
-  height: 100%;
-  /* background: seagreen; */
+  height: 100%;
   color: #fff;
   display: flex;
   flex-direction: column;
